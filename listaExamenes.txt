@@ -1,0 +1,36 @@
+95
+5
+Prueba ALGII Modelo A
+4
+71
+76
+75
+25
+6
+54
+6
+Prueba ALGII Modelo B
+3.33333
+57
+52
+40
+31
+10
+76
+35
+4
+Prueba BONUS de deportes (para que subas tu promedio)
+5
+100
+88
+85
+12
+246
+5
+Prueba BONUS de deportes 2
+4
+68
+42
+41
+9
+20

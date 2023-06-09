@@ -1,0 +1,233 @@
+4
+SM
+1
+1
+n al cuadrado
+N
+2
+n al cubo
+N
+3
+log en base 2 de n
+N
+4
+Ninguna de las anteriores
+S
+6
+El orden de complejidad en el algoritmo de busqueda secuencial es: 
+4
+SM
+1
+1
+Bayern Munich
+N
+2
+FC Barcelona
+S
+3
+Real Madrid
+N
+4
+PSG
+N
+9
+Quien gano la Champions League 2014-15
+1
+VF
+1
+1
+F
+S
+10
+La implementacion de listas mediante apuntadores es siempre mas eficiente que con arreglos (considerar espacio de memoria y tiempo de acceso).
+1
+VF
+1
+1
+V
+S
+12
+Brasil es el pais con mas mundiales de futbol ganados
+2
+SM
+1
+1
+FC Barcelona
+N
+2
+Real Madrid
+S
+20
+Quien ha ganado mas clasicos
+4
+SM
+1
+1
+Numero de operaciones o pasos
+N
+2
+Numero de pasos o instrucciones que ejecuta el algoritmo en funcion de la magnitud de los datos de entrada
+S
+3
+De las estructuras de control
+N
+4
+Ninguna de las anteriores
+N
+25
+El orden de complejidad de un algoritmo depende de: 
+1
+VF
+1
+1
+F
+S
+31
+La especificacion de las primitivas definidas para un TDA cambia segun la estructura (implementacion) utilizada
+1
+VF
+1
+1
+F
+S
+40
+El operador & devuelve la direccion donde esta guardada una variable del tipo apuntador, si lo utilizo con otro tipo de variable hay un error de compilacion
+3
+SM
+1
+1
+Muhammad Ali
+N
+2
+Floyd Mayweather
+N
+3
+Wanheng Menayothin
+S
+41
+Quien es el boxeador con mas victorias consecutivas
+1
+VF
+1
+1
+F
+S
+42
+El ultimo ganador de la copa mundial de futbol es Alemania
+1
+VF
+1
+1
+F
+S
+52
+En una lista con nodo cabeza todos los elementos incluyendo el nodo cabeza son del mismo tipo
+4
+SM
+1
+1
+No puede cambiar de tipo
+S
+2
+Puede cambiar de tipo si se pasa por referencia
+N
+3
+Puede cambiar de tipo si se pasa por valor
+N
+4
+Nunca puede cambiar de valor
+N
+57
+En C/C++, dentro de un subprograma, un parametro: 
+1
+VF
+1
+1
+F
+S
+68
+Pastor Maldonado nunca gano una carrera en la F1
+1
+VF
+1
+1
+F
+S
+71
+En un TDA que implemente una lista doblemente enlazada, el ultimo elemento apunta al primero
+4
+SM
+1
+1
+Simple, multiple, anidada
+N
+2
+Simple, multiple, anidada, indirecta
+S
+3
+Simple, multiple, indirecta
+N
+4
+Ninguna de las anteriores
+N
+75
+Los tipos de recursividad son: 
+4
+SM
+2
+1
+Han sido eliminados, no se puede tener acceso a ellos
+N
+2
+No se puede tener acceso a ellos, y tampoco se pueden eliminar
+S
+3
+La memoria queda ocupada, no puede accederse a los elementos de la lista
+S
+4
+Ninguna de las anteriores
+N
+76
+Que suceden con los elementos de una lista enlazada de nodos cuando se pierde el apuntador al primer elemento
+2
+SM
+1
+1
+Sam Jones
+N
+2
+Bill Russell
+S
+85
+Cual es el jugador de basketball con mas anillos de la NBA
+3
+SM
+1
+1
+642
+S
+2
+598
+N
+3
+694
+N
+88
+Cual es la cantidad de goles que el grandioso LIONEL MESSI ha anotado en el FC Barcelona
+4
+SM
+1
+1
+8
+N
+2
+6
+N
+3
+7
+S
+4
+9
+N
+100
+Cual es la cantidad de titulos que ha ganado Lewis Hamilton de la F1
